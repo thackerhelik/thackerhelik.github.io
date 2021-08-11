@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Helik Kanti Thacker"
 title_separator          : "-"
 name                     : &name "Helik Kanti Thacker"
 description              : &description "personal description"
@@ -80,14 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Helik Kanti Thacker"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  bio              : "Interested in Deep Reinforcement Learning. Currently applying Reinforcement Learning to combinatorial problems and games."
+  location         : "Mumbai, India"
+  employer         : "Samsung Semiconductor India R&D"
+  pubmed           : 
+  googlescholar    : "https://scholar.google.com/citations?user=UvOMZxoAAAAJ&hl=en"
+  dblp             : "https://dblp.org/pid/254/9494.html"
+  email            : "thackerhelik@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +97,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "thackerhelik"
   google_plus      :
   keybase          :
   instagram        :
@@ -109,7 +110,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "thackerhelik"
   vine             :
   weibo            :
   xing             :
