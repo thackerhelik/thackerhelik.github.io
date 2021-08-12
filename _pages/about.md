@@ -8,5 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-This is Helik's page
-Add some more content here :)
+This is Helik's page  
+Add some more content here :)  
+Currently under maintenance  
