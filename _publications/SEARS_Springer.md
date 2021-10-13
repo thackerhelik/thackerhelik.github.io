@@ -2,7 +2,7 @@
 title: "A Statistical Wafer Scale Error and Redundancy Analysis Simulator"
 collection: publications
 permalink: /publication/SEARS_Springer
-excerpt: 'Something here.'
+<excerpt: 'Something here.'>
 date: 2020-07-22
 venue: 'Part of the IFIP Advances in Information and Communication Technology book series (IFIPAICT, volume 586)'
 paperurl: 'http://academicpages.github.io/files/paper2.pdf'
