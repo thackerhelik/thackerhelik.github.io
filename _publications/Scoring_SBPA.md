@@ -1,7 +1,7 @@
 ---
 title: "A Novel Scoring based Memory Repair Algorithm for increased Wafer Yield"
 permalink: /publication/Scoring_SBPA.md
-date: 2021-10-10
+date: 2020-10-10
 venue: 'SBPA 2020'
 ---
 
