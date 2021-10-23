@@ -1,5 +1,5 @@
 ---
-title: "AlphaRA"
+title: "AlphaRA: An AlphaZero based approach to Redundancy Analysis"
 permalink: /publication/AlphaRA_ICMLA
 date: 2021-10-10
 venue: 'ICMLA 2021'
