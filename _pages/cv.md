@@ -12,6 +12,7 @@ redirect_from:
 Education
 ======
 * B.Tech. in Computer Science, Manipal Academy of Higher Education, 2019
+    * CGPA - 9.12/10
 
 Work experience
 ======
