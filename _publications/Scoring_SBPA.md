@@ -18,6 +18,8 @@ citation: "Atishay, A. Gupta, R. Sonawat, H. K. Thacker and B. Prasanth, 'SEARS:
 ---
 --->
 
+_**Abstract**_ -- NA
+
 Merit award in the Memory Semiconductor category.
 
 <!--[Download paper here](Published internally in SBPA)-->
