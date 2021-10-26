@@ -16,8 +16,8 @@ Education
 Work experience
 ======
 * 2019 - Present: Engineer
-  * Samsung Semiconductor India R&D
-  * Duties included
+    * Samsung Semiconductor India R&D
+    * Duties included
         * AlphaRA 
         * Designed two heuristic algorithms for the Redundancy Analysis problem (Put yield here)
   
