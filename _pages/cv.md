@@ -18,18 +18,18 @@ Work experience
 * 2019 - Present: Engineer
     * Samsung Semiconductor India R&D
     * Duties included
-        * AlphaRA 
-        * Designed two heuristic algorithms for the Redundancy Analysis problem (Put yield here)
+        * AlphaRA: An AlphaZero based approach to Redundancy Analysis
+        * Designed two heuristic algorithms for the Redundancy Analysis problem
   
 * 2019: Intern
-  * Samsung Semiconductor India R&D
-  * Duties included
-        * Designed a genetic algorithm for the Redundancy Analysis problem (Put yield here)
+    * Samsung Semiconductor India R&D
+    * Duties included
+        * Designed a genetic algorithm for the Redundancy Analysis problem
         * Developed a deep learning model to select the best Redundancy Analysis algorithm
 
 * 2018: Summer Intern
-  * Samsung Semiconductor India R&D
-  * Duties included
+    * Samsung Semiconductor India R&D
+    * Duties included
         * Worked on making the SSD verfication application cross-platform
         * Customized and integrated an IDE with the application
 
@@ -75,3 +75,4 @@ Service and leadership
 ======
 * Help-Desk Volunteer - Volunteered in EMNLP2020 as a helpdesk volunteer.
 * Took active part in Mahadevapura lake cleaning drive organized by Samsung Semiconductor India R&D as part of the corporate social responsibility.
+* Took part in the sanitation and hygiene drive for community schools in Valsad.
