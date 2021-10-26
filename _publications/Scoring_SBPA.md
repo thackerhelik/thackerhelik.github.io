@@ -20,6 +20,6 @@ citation: "Atishay, A. Gupta, R. Sonawat, H. K. Thacker and B. Prasanth, 'SEARS:
 
 Merit award in the Memory Semiconductor category.
 
-[Download paper here](Published internally in SBPA)
+<!--[Download paper here](Published internally in SBPA)-->
 
-Recommended citation: NA
+<!--Recommended citation: NA-->
