@@ -1,6 +1,6 @@
 ---
 title: "A Novel Scoring based Memory Repair Algorithm for increased Wafer Yield"
-permalink: /publication/Scoring_SBPA.md
+permalink: /publication/Scoring_SBPA
 date: 2020-10-10
 venue: 'SBPA 2020'
 ---
@@ -17,8 +17,6 @@ paperurl: 'https://link.springer.com/chapter/10.1007/978-3-030-53273-4_7'
 citation: "Atishay, A. Gupta, R. Sonawat, H. K. Thacker and B. Prasanth, 'SEARS: A Statistical Error and Redundancy Analysis Simulator,' 27th International Conference on VLSI-SoC, pp. 117-122, 2019."
 ---
 --->
-
-_**Abstract**_ -- NA
 
 Merit award in the Memory Semiconductor category.
 
