@@ -43,7 +43,7 @@
         {% elsif post.collection == 'publications' %}
           {% if post.venue == 'INDICON 2021' %}
             <p>To Appear in <i>{{ post.venue }}</i></p>
-          {% if post.venue == 'ICMLA 2021' %}
+          {% elsif post.venue == 'ICMLA 2021' %}
             <p>To Appear in <i>{{ post.venue }}</i></p>
           {% elsif post.venue %}
             <p>Published in <i>{{ post.venue }}</i></p>
