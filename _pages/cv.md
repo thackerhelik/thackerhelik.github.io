@@ -13,6 +13,7 @@ Education
 ======
 * B.Tech. in Computer Science, Manipal Academy of Higher Education, 2019
     * CGPA - 9.12/10
+    * Department Rank 21/248
 
 Work experience
 ======
