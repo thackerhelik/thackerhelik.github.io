@@ -20,6 +20,6 @@ citation: "Atishay, A. Gupta, R. Sonawat, H. K. Thacker and B. Prasanth, 'SEARS:
 
 _**Abstract**_ -- Manufacturing errors, external impurities or faulty deposition during chip fabrication could generate chips with faulty memory cells, rendering the chip unusable. To repair these faulty memory cells, redundancies are included in the memory in the form of spare rows and columns. The process of mapping faulty lines to redundant cells is Redundancy Analysis. Applying a uniform Redundancy Analysis algorithm on the wafers or running algorithms sequentially one after the other would either compromise on the repair time or wafer yield. An end-to-end solution for memory repair is proposed in this paper. A clustering algorithm to classify, identify and extract features from chip errors on a wafer is proposed. These features along with other derived parameters are used as an input to the neural network recommender system to select algorithms allowing an increase in the wafer yield keeping a low repair time per wafer. We have performed comparisons of the generated result with and without clustering and with other methods of classification of chips for Redundancy Analysis algorithm selection such as Decision Trees. Experimental results demonstrate that this solution out-performs the heuristic algorithmic solutions by 9.1% and 32.9% in terms of yield for medium and high error rates.
 
-[Download paper here](To Apprear in INDICON 2021)
+[Download paper here](thackerhelik.github.io/files/RARecommender.pdf) [To Apprear in INDICON 2021]
 
 Recommended citation: TBA
