@@ -228,6 +228,16 @@ defaults:
       author_profile: true
       share: true
       comments: true
+  # _certifications
+  # _publications
+  - scope:
+      path: ""
+      type: certifications
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
   # _portfolio
   - scope:
       path: ""
