@@ -1,7 +1,7 @@
 ---
 title: "Redundancy Analysis using Genetic Algorithm"
 permalink: /publication/Genetic_INDICON
-date: 2021-10-10
+date: 2022-02-01
 venue: 'INDICON 2021'
 ---
 

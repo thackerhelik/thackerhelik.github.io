@@ -1,7 +1,7 @@
 ---
 title: "A Deep Learning Model for Redundancy Analysis Algorithm Recommendation"
 permalink: /publication/Recommender_INDICON
-date: 2021-10-10
+date: 2022-02-01
 venue: 'INDICON 2021'
 ---
 

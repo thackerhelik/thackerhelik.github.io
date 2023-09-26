@@ -10,11 +10,5 @@ author_profile: true
 Testing certifications page
 
 {% for post in site.certifications %}
-  TestL
-  {% include archive-single-certificate.html %}
-{% endfor %}
-
-{% for post in site.publications reversed %}
-  TestM
   {% include archive-single-certificate.html %}
 {% endfor %}
