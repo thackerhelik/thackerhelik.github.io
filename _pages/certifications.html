@@ -5,4 +5,6 @@ title: "Certifications"
 author_profile: true
 ---
 
-This is certificate example
+{% for post in site.talks reversed %}
+  {% include archive-single-talk.html %}
+{% endfor %}
