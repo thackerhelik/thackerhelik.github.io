@@ -9,7 +9,7 @@ author_profile: true
 
 Testing certifications page
 
-{% for post in site.certifications reversed %}
+{% for post in site.certifications %}
   TestL
   {% include archive-single-certificate.html %}
 {% endfor %}
