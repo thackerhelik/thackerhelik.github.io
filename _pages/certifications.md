@@ -10,9 +10,9 @@ author_profile: true
 Testing certifications page
 
 {% for post in site.certifications reversed %}
-  {% include archive-single.html %}
+  {% include archive-single-certificate.html %}
 {% endfor %}
 
 {% for post in site.publications reversed %}
-  {% include archive-single.html %}
+  {% include archive-single-certificate.html %}
 {% endfor %}
