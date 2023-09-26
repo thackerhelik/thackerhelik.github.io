@@ -14,6 +14,7 @@
 
 <div class="{{ include.type | default: "list" }}__item">
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
-    <p><i>{{ post.link }}</i></p>
+    <a href="{{ post.link }}">{{ title }}</a>
+    <!--<p><i>{{ post.link }}</i></p>-->
   </article>
 </div>
