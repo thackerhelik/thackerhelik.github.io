@@ -11,6 +11,9 @@ redirect_from:
 
 Education
 ======
+* MSc in Data Science, RWTH Aachen, 2024-Present
+    * GPA - 1.7
+
 * B.Tech. in Computer Science, Manipal Academy of Higher Education, 2019
     * CGPA - 9.12/10
     * Department Rank 21/248
